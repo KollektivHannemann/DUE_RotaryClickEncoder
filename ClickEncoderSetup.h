@@ -172,7 +172,7 @@ void setupEncoder() {
    */
 
    Timer1.attachInterrupt(encHandler);
-   Timer1.start(20);                  // <-- Time the interrupt is called (Calls every ...µs)
+   Timer1.start(100);                  // <-- Time the interrupt is called (Calls every ...µs)
 }
 
 
