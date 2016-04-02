@@ -11,7 +11,7 @@ Took me some time finding the right scetch that I could adapt, so I thought I wo
 
 ### Use
 
-Please make sure the to include [Ivan Seidels „DueTimer“](https://github.com/ivanseidel/DueTimer) to your library folder!
+Please make sure the to include Ivan Seidels [„DueTimer“](https://github.com/ivanseidel/DueTimer) to your library folder!
 
 Get the values of the rotary encoders and buttons by calling:
 ```
