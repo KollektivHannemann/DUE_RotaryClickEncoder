@@ -9,6 +9,8 @@ Took me some time finding the right scetch that I could adapt. Credits go to [Ha
 
 ### Use
 
+Please make sure the to include [Ivan Seidels „DueTimer“](https://github.com/ivanseidel/DueTimer) to your library folder!
+
 Get the values of the rotary encoders and buttons by calling:
 ```
 encVal[ #];    // get encoder value (# = Encoder number)
@@ -18,8 +20,9 @@ enc#ButTog;    // get toggle state of button switch
 ```
 
 If you want to add more encoders make sure to edit "ClickEncoderSetup.h" accordingly.
-Sorry if the code might look kind of clunky, still a noob.
 
-Please make sure the to include [Ivan Seidels „DueTimer“](https://github.com/ivanseidel/DueTimer) to your library folder!
+Sorry if the code does look kind of clunky, still a noob.
+
+
 
 
