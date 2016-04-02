@@ -14,9 +14,9 @@ Please make sure the to include [Ivan Seidels „DueTimer“](https://github.com
 Get the values of the rotary encoders and buttons by calling:
 ```
 encVal[ #];    // get encoder value (# = Encoder number)
-enc#ButStat;   // get button state
-enc#ButCount;  // get count of button pushes
-enc#ButTog;    // get toggle state of button switch
+enc#ButStat;   // get button state (# = Encoder number)
+enc#ButCount;  // get count of button pushes (# = Encoder number)
+enc#ButTog;    // get toggle state of button switch (# = Encoder number)
 ```
 
 If you want to add more encoders make sure to edit "ClickEncoderSetup.h" accordingly.
