@@ -26,9 +26,9 @@ If you want to add more encoders make sure to edit "ClickEncoderSetup.h" accordi
 Sorry if the code does look kind of clunky, still a noob.
 
 
-##### ToDo
+### ToDo
 
-Makeing this a real library.
+Making this a real library.
 
 
 
