@@ -4,8 +4,9 @@
 ### About
 
 This is an example scetch for Rotary Click Encoders (sometimes called „quadratur encoder“ with button) for the Arduino DUE.
-Note that this is not a real library. Just start the *.ino file from the downloaded folder. 
-Took me some time finding the right scetch that I could adapt. Credits go to [HaWe] (http://www.mindstormsforum.de/viewtopic.php?t=8624).
+Note that this is not a real library. Just start the *.ino file from the downloaded folder.
+ 
+Took me some time finding the right scetch that I could adapt, so I thought I would share it.  Credits go to [HaWe] (http://www.mindstormsforum.de/viewtopic.php?t=8624).
 
 
 ### Use
